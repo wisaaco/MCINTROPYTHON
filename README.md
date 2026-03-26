@@ -2,12 +2,12 @@
 # Microcredencial Introducción a Python 
 
 Authors: [Dr. Isaac Lera](https://personal.uib.es/isaac.lera), [Dr. Miquel Miró](https://personal.uib.cat/miquel.miro), [Dr. Francesc Xavier Gaya](personal.uib.es/francesc-xavier.gaya), [Aina Colom]() <br/>
-Official web site: [https://cep.uib.cat/master/MAD2/12174/index.html](https://cep.uib.cat/master/MAD2/12174/index.html) <br/>
+Official web site:  <br/>
 Edition: 2026, v1<br/>
 
 ## How to read the doc
 
-Documentation available at: [https://ttad.readthedocs.io/](https://ttad.readthedocs.io/)
+Documentation available at: [https://mcintropython.readthedocs.io/en/latest/](https://mcintropython.readthedocs.io/en/latest/)
 
 ## How to get the code 
 
@@ -22,7 +22,7 @@ to install libraries:
 uv add seaborn
 ```
 
-to rebuild the docs:
+to rebuild the docs in local:
 ```bash
  uv run --extra docs sphinx-build -b html docs docs/_build/html
 ```
