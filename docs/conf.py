@@ -23,7 +23,12 @@ extensions = [
 ]
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = [
+    '_build',
+    'Thumbs.db',
+    '.DS_Store',
+    '**.ipynb_checkpoints',
+]
 
 # Add the notebooks directory to the path
 import os

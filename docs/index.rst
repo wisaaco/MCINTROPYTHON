@@ -4,35 +4,34 @@
    contain the root `toctree` directive.
 
 Welcome to Microcredencial Introducción a Python's documentation!
-===============================================================
+===================================================================
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Section 1: Python Basics and Numpy
 
-   notebooks/01_Python/01_Overview
+   notebooks/01_Python/01_overview
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Section 2: Pandas - Introduction
 
-   notebooks/02_Pandas/01_Overview
-   
+   notebooks/02_Pandas/01_overview
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Section 3: Project Pandas
-   
-   notebooks/03_ProyectoPandas/01_Overview
+
+   notebooks/03_ProyectoPandas/01_overview
 
 .. toctree::
    :maxdepth: 2
    :caption: Section 4: Project GIS
 
-   notebooks/04_ProyectoGIS/01_Overview
+   notebooks/04_ProyectoGIS/01_overview
 
    
 
