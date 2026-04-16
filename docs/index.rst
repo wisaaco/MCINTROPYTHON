@@ -32,6 +32,8 @@ Welcome to Microcredencial Introducción a Python's documentation!
    :caption: Section 4: Project GIS
 
    notebooks/04_ProyectoGIS/01_overview
+   notebooks/04_ProyectoGIS/02_wms_visualizacion
+   notebooks/04_ProyectoGIS/03_wfs_geojson_api_geopandas
 
    
 

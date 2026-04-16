@@ -273,3 +273,7 @@ secrets/
 .env.local
 .env.production
 .env.staging
+
+
+gis_intro/*
+notebooks/04_ProyectoGIS/*solucion*
