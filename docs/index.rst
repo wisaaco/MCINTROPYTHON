@@ -35,7 +35,8 @@ Welcome to Microcredencial Introducción a Python's documentation!
    notebooks/04_ProyectoGIS/02_wms_visualizacion
    notebooks/04_ProyectoGIS/03_wfs_geojson_api_geopandas
 
-   
 
-
+.. image:: _static/LogoMicro.png
+   :alt: Logo Microcredenciales UIB
+   :align: center
 

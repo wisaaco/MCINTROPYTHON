@@ -26,3 +26,5 @@ to rebuild the docs in local:
 ```bash
  uv run --extra docs sphinx-build -b html docs docs/_build/html
 ```
+
+![Logo Micro](LogoMicro.png)
