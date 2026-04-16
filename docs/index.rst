@@ -25,7 +25,7 @@ Welcome to Microcredencial Introducción a Python's documentation!
    :maxdepth: 2
    :caption: Section 3: Project Pandas
 
-   notebooks/03_ProyectoPandas/01_overview
+   notebooks/03_ProyectoPandas/ProyectoPandas
 
 .. toctree::
    :maxdepth: 2
