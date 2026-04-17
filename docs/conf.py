@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Microcredencial Introducción a Python'
-copyright = '2026, Isaac Lera, Miquel Miró, Aina Colom and Xavier Gaya'
-author = 'Isaac Lera, Miquel Miró, Aina Colom and Xavier Gaya'
+copyright = '2026, Isaac Lera, Miquel Miró, Aina Tur and Xavier Gaya'
+author = 'Isaac Lera, Miquel Miró, Aina Tur and Xavier Gaya'
 release = '2026-26, v0.01'
 
 # -- General configuration ---------------------------------------------------
