@@ -12,6 +12,9 @@ Welcome to Microcredencial Introducción a Python's documentation!
    :caption: Section 1: Python Basics and Numpy
 
    notebooks/01_Python/01_overview
+   notebooks/01_Python/02_ControlStatements
+   notebooks/01_Python/03_OtherTypes
+
 
 
 .. toctree::
