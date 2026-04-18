@@ -14,6 +14,7 @@ Welcome to Microcredencial Introducción a Python's documentation!
    notebooks/01_Python/01_overview
    notebooks/01_Python/02_ControlStatements
    notebooks/01_Python/03_OtherTypes
+   notebooks/01_Python/04_numpy
 
 
 
