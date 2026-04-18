@@ -22,7 +22,10 @@ Welcome to Microcredencial Introducción a Python's documentation!
    :caption: Section 2: Pandas - Introduction
 
    notebooks/02_Pandas/01_overview
-   notebooks/02_Pandas/05_visualization
+   notebooks/02_Pandas/02a_modification
+   notebooks/02_Pandas/02b_NanValues
+   notebooks/02_Pandas/02c_TimeSeries
+   notebooks/02_Pandas/03_visualization
 
 
 
